@@ -1,0 +1,336 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Klaudy\\Desktop\\WpfApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8A9C93-C705-4394-9E6C-D9617734BA68}|WpfApp2\\WpfApp2.csproj|c:\\users\\klaudy\\desktop\\wpfapp2\\wpfapp2\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3C8A9C93-C705-4394-9E6C-D9617734BA68}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8A9C93-C705-4394-9E6C-D9617734BA68}|WpfApp2\\WpfApp2.csproj|c:\\users\\klaudy\\desktop\\wpfapp2\\wpfapp2\\adminview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3C8A9C93-C705-4394-9E6C-D9617734BA68}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\adminview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8A9C93-C705-4394-9E6C-D9617734BA68}|WpfApp2\\WpfApp2.csproj|c:\\users\\klaudy\\desktop\\wpfapp2\\wpfapp2\\adminview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8A9C93-C705-4394-9E6C-D9617734BA68}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\adminview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8A9C93-C705-4394-9E6C-D9617734BA68}|WpfApp2\\WpfApp2.csproj|c:\\users\\klaudy\\desktop\\wpfapp2\\wpfapp2\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8A9C93-C705-4394-9E6C-D9617734BA68}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8A9C93-C705-4394-9E6C-D9617734BA68}|WpfApp2\\WpfApp2.csproj|c:\\users\\klaudy\\desktop\\wpfapp2\\wpfapp2\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8A9C93-C705-4394-9E6C-D9617734BA68}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8A9C93-C705-4394-9E6C-D9617734BA68}|WpfApp2\\WpfApp2.csproj|c:\\users\\klaudy\\desktop\\wpfapp2\\wpfapp2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8A9C93-C705-4394-9E6C-D9617734BA68}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8A9C93-C705-4394-9E6C-D9617734BA68}|WpfApp2\\WpfApp2.csproj|c:\\users\\klaudy\\desktop\\wpfapp2\\wpfapp2\\clientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8A9C93-C705-4394-9E6C-D9617734BA68}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\clientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8A9C93-C705-4394-9E6C-D9617734BA68}|WpfApp2\\WpfApp2.csproj|c:\\users\\klaudy\\desktop\\wpfapp2\\wpfapp2\\warehouseview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8A9C93-C705-4394-9E6C-D9617734BA68}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\warehouseview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8A9C93-C705-4394-9E6C-D9617734BA68}|WpfApp2\\WpfApp2.csproj|c:\\users\\klaudy\\desktop\\wpfapp2\\wpfapp2\\warehouseview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3C8A9C93-C705-4394-9E6C-D9617734BA68}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\warehouseview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8A9C93-C705-4394-9E6C-D9617734BA68}|WpfApp2\\WpfApp2.csproj|c:\\users\\klaudy\\desktop\\wpfapp2\\wpfapp2\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8A9C93-C705-4394-9E6C-D9617734BA68}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8A9C93-C705-4394-9E6C-D9617734BA68}|WpfApp2\\WpfApp2.csproj|c:\\users\\klaudy\\desktop\\wpfapp2\\wpfapp2\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8A9C93-C705-4394-9E6C-D9617734BA68}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8A9C93-C705-4394-9E6C-D9617734BA68}|WpfApp2\\WpfApp2.csproj|c:\\users\\klaudy\\desktop\\wpfapp2\\wpfapp2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8A9C93-C705-4394-9E6C-D9617734BA68}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8A9C93-C705-4394-9E6C-D9617734BA68}|WpfApp2\\WpfApp2.csproj|c:\\users\\klaudy\\desktop\\wpfapp2\\wpfapp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3C8A9C93-C705-4394-9E6C-D9617734BA68}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8A9C93-C705-4394-9E6C-D9617734BA68}|WpfApp2\\WpfApp2.csproj|c:\\users\\klaudy\\desktop\\wpfapp2\\wpfapp2\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8A9C93-C705-4394-9E6C-D9617734BA68}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8A9C93-C705-4394-9E6C-D9617734BA68}|WpfApp2\\WpfApp2.csproj|c:\\users\\klaudy\\desktop\\wpfapp2\\wpfapp2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8A9C93-C705-4394-9E6C-D9617734BA68}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8A9C93-C705-4394-9E6C-D9617734BA68}|WpfApp2\\WpfApp2.csproj|c:\\users\\klaudy\\desktop\\wpfapp2\\wpfapp2\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8A9C93-C705-4394-9E6C-D9617734BA68}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8A9C93-C705-4394-9E6C-D9617734BA68}|WpfApp2\\WpfApp2.csproj|c:\\users\\klaudy\\desktop\\wpfapp2\\wpfapp2\\clientview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3C8A9C93-C705-4394-9E6C-D9617734BA68}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\clientview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8A9C93-C705-4394-9E6C-D9617734BA68}|WpfApp2\\WpfApp2.csproj|c:\\users\\klaudy\\desktop\\wpfapp2\\wpfapp2\\clientview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8A9C93-C705-4394-9E6C-D9617734BA68}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\clientview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8A9C93-C705-4394-9E6C-D9617734BA68}|WpfApp2\\WpfApp2.csproj|c:\\users\\klaudy\\desktop\\wpfapp2\\wpfapp2\\warehouseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8A9C93-C705-4394-9E6C-D9617734BA68}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\warehouseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8A9C93-C705-4394-9E6C-D9617734BA68}|WpfApp2\\WpfApp2.csproj|c:\\users\\klaudy\\desktop\\wpfapp2\\wpfapp2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3C8A9C93-C705-4394-9E6C-D9617734BA68}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Klaudy\\Desktop\\WpfApp2\\WpfApp2\\ClientViewModel.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\ClientViewModel.cs",
+              "ToolTip": "C:\\Users\\Klaudy\\Desktop\\WpfApp2\\WpfApp2\\ClientViewModel.cs",
+              "RelativeToolTip": "WpfApp2\\ClientViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T19:39:05.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Klaudy\\Desktop\\WpfApp2\\WpfApp2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Klaudy\\Desktop\\WpfApp2\\WpfApp2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAA/wGwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T19:40:10.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Klaudy\\Desktop\\WpfApp2\\WpfApp2\\AdminView.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\AdminView.xaml.cs",
+              "ToolTip": "C:\\Users\\Klaudy\\Desktop\\WpfApp2\\WpfApp2\\AdminView.xaml.cs",
+              "RelativeToolTip": "WpfApp2\\AdminView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T19:43:29.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Klaudy\\Desktop\\WpfApp2\\WpfApp2\\Views\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\Views\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\Klaudy\\Desktop\\WpfApp2\\WpfApp2\\Views\\LoginWindow.xaml",
+              "RelativeToolTip": "WpfApp2\\Views\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-12T19:43:16.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Klaudy\\Desktop\\WpfApp2\\WpfApp2\\Views\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\Views\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Klaudy\\Desktop\\WpfApp2\\WpfApp2\\Views\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp2\\Views\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T19:43:10Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Klaudy\\Desktop\\WpfApp2\\WpfApp2\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Klaudy\\Desktop\\WpfApp2\\WpfApp2\\AssemblyInfo.cs",
+              "RelativeToolTip": "WpfApp2\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T19:43:43.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminView.xaml",
+              "DocumentMoniker": "C:\\Users\\Klaudy\\Desktop\\WpfApp2\\WpfApp2\\AdminView.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\AdminView.xaml",
+              "ToolTip": "C:\\Users\\Klaudy\\Desktop\\WpfApp2\\WpfApp2\\AdminView.xaml",
+              "RelativeToolTip": "WpfApp2\\AdminView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-12T19:43:21.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WarehouseView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Klaudy\\Desktop\\WpfApp2\\WpfApp2\\WarehouseView.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\WarehouseView.xaml.cs",
+              "ToolTip": "C:\\Users\\Klaudy\\Desktop\\WpfApp2\\WpfApp2\\WarehouseView.xaml.cs",
+              "RelativeToolTip": "WpfApp2\\WarehouseView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T19:44:34.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WarehouseView.xaml",
+              "DocumentMoniker": "C:\\Users\\Klaudy\\Desktop\\WpfApp2\\WpfApp2\\WarehouseView.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\WarehouseView.xaml",
+              "ToolTip": "C:\\Users\\Klaudy\\Desktop\\WpfApp2\\WpfApp2\\WarehouseView.xaml",
+              "RelativeToolTip": "WpfApp2\\WarehouseView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-12T19:44:26.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Klaudy\\Desktop\\WpfApp2\\WpfApp2\\User.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\User.cs",
+              "ToolTip": "C:\\Users\\Klaudy\\Desktop\\WpfApp2\\WpfApp2\\User.cs",
+              "RelativeToolTip": "WpfApp2\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T19:41:44.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Klaudy\\Desktop\\WpfApp2\\WpfApp2\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Klaudy\\Desktop\\WpfApp2\\WpfApp2\\RelayCommand.cs",
+              "RelativeToolTip": "WpfApp2\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T19:44:20.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Klaudy\\Desktop\\WpfApp2\\WpfApp2\\Product.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\Product.cs",
+              "ToolTip": "C:\\Users\\Klaudy\\Desktop\\WpfApp2\\WpfApp2\\Product.cs",
+              "RelativeToolTip": "WpfApp2\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T19:43:05.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Klaudy\\Desktop\\WpfApp2\\WpfApp2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Klaudy\\Desktop\\WpfApp2\\WpfApp2\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-12T19:44:06.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Klaudy\\Desktop\\WpfApp2\\WpfApp2\\AdminViewModel.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\AdminViewModel.cs",
+              "ToolTip": "C:\\Users\\Klaudy\\Desktop\\WpfApp2\\WpfApp2\\AdminViewModel.cs",
+              "RelativeToolTip": "WpfApp2\\AdminViewModel.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAcwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T19:43:30.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Klaudy\\Desktop\\WpfApp2\\WpfApp2\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Klaudy\\Desktop\\WpfApp2\\WpfApp2\\App.xaml.cs",
+              "RelativeToolTip": "WpfApp2\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T19:43:38.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Klaudy\\Desktop\\WpfApp2\\WpfApp2\\Client.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\Client.cs",
+              "ToolTip": "C:\\Users\\Klaudy\\Desktop\\WpfApp2\\WpfApp2\\Client.cs",
+              "RelativeToolTip": "WpfApp2\\Client.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvygAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T19:38:48.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClientView.xaml",
+              "DocumentMoniker": "C:\\Users\\Klaudy\\Desktop\\WpfApp2\\WpfApp2\\ClientView.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\ClientView.xaml",
+              "ToolTip": "C:\\Users\\Klaudy\\Desktop\\WpfApp2\\WpfApp2\\ClientView.xaml",
+              "RelativeToolTip": "WpfApp2\\ClientView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-12T19:39:41.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClientView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Klaudy\\Desktop\\WpfApp2\\WpfApp2\\ClientView.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\ClientView.xaml.cs",
+              "ToolTip": "C:\\Users\\Klaudy\\Desktop\\WpfApp2\\WpfApp2\\ClientView.xaml.cs",
+              "RelativeToolTip": "WpfApp2\\ClientView.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T19:40:57.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WarehouseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Klaudy\\Desktop\\WpfApp2\\WpfApp2\\WarehouseViewModel.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\WarehouseViewModel.cs",
+              "ToolTip": "C:\\Users\\Klaudy\\Desktop\\WpfApp2\\WpfApp2\\WarehouseViewModel.cs",
+              "RelativeToolTip": "WpfApp2\\WarehouseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T19:44:38.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Klaudy\\Desktop\\WpfApp2\\WpfApp2\\App.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\App.xaml",
+              "ToolTip": "C:\\Users\\Klaudy\\Desktop\\WpfApp2\\WpfApp2\\App.xaml",
+              "RelativeToolTip": "WpfApp2\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-12T19:43:36.017Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
