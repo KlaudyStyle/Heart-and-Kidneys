@@ -105,12 +105,14 @@ namespace WpfApp2
                     MenuItems.Add(new MenuItem { Title = "Админ", View = new AdminView() });
                     MenuItems.Add(new MenuItem { Title = "Склад", View = new WarehouseView() });
                     MenuItems.Add(new MenuItem { Title = "Клиенты", View = new ClientView() });
+                    MenuItems.Add(new MenuItem { Title = "Продажи", View = new SalesView() });
                     break;
                 case "WarehouseManager":
                     MenuItems.Add(new MenuItem { Title = "Склад", View = new WarehouseView() });
                     break;
                 case "Seller":
                     MenuItems.Add(new MenuItem { Title = "Клиенты", View = new ClientView() });
+                    MenuItems.Add(new MenuItem { Title = "Продажи", View = new SalesView() });
                     break;
             }
 

@@ -66,3 +66,6 @@ C:\Users\Klaudy\Desktop\WpfApp2\WpfApp2\obj\Debug\net8.0-windows\refint\WpfApp2.
 C:\Users\Klaudy\Desktop\WpfApp2\WpfApp2\obj\Debug\net8.0-windows\WpfApp2.pdb
 C:\Users\Klaudy\Desktop\WpfApp2\WpfApp2\obj\Debug\net8.0-windows\WpfApp2.genruntimeconfig.cache
 C:\Users\Klaudy\Desktop\WpfApp2\WpfApp2\obj\Debug\net8.0-windows\ref\WpfApp2.dll
+C:\Users\Klaudy\Desktop\WpfApp2\WpfApp2\obj\Debug\net8.0-windows\SalesView.g.cs
+C:\Users\Klaudy\Desktop\WpfApp2\WpfApp2\obj\Debug\net8.0-windows\SalesView.baml
+C:\Users\Klaudy\Desktop\WpfApp2\WpfApp2\obj\Debug\net8.0-windows\WpfApp2.sourcelink.json
